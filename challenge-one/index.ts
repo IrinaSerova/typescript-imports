@@ -1,1 +1,1 @@
-import { helloWorld } 'from hello-world.ts';
+import { helloWorld } from 'hello-world.ts';
