@@ -1,8 +1,10 @@
+"use strict";
+exports.__esModule = true;
 /* import the double function from double.ts
    now invoke the function and store the result in a variable.
    confirm the value of the variable.
    Hint console.log
 */
-import { double } from "../js/functions/math/double";
-const result = double(5);
+var double_1 = require("../js/functions/math/double");
+var result = double_1.double(5);
 console.log(result);
